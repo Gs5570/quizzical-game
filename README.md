@@ -6,6 +6,9 @@ It is designed to showcase my ability to build a react application from scratch.
 
 I built and designed an interactive game that fetch data from a public API.
 
+# Live Demo
+[Click here](gs5570-quizzical-game.netlify.app)
+
 # Technologies
 <table>
 	<tr>
@@ -29,3 +32,4 @@ npm install
 ```
 npm run dev
 ```
+
