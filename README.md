@@ -19,7 +19,7 @@ I built and designed an interactive game that fetch data from a public API.
 # How to use it:
 1. Clone the project in your local directory: 
 ```
-git clone
+git clone https://github.com/Gs5570/quizzical-game.git
 ```
 2. Run the following command to download and install the dependecies:
 ```
